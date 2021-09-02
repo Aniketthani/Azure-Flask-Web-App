@@ -1,1 +1,2 @@
-# Azure-Flask-Web-App
+# Azure-deploy
+Deploying flask app in azure
