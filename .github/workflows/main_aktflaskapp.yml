@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'aktflaskapp'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_ee619a85b4a04f3f97c59233f1ff8e74 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_12c54e2c5225421da40a96c46cafe061 }}
